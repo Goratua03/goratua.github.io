@@ -1,0 +1,65 @@
+h1 {
+    background-color: rgb(41, 113, 221);
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    border: solid darkblue; 
+    margin:0px 400px 0px 400px;     
+    font-family: 'Ubuntu';
+    text-transform: uppercase;
+    font-size: 25px;
+    padding:20px 0px 20px 0px;
+}
+body {
+    background-color: rgb(171, 241, 200);
+}
+.Gambar {
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+        
+}
+.tugu {
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.UNAI {
+    background-color: rgb(108, 230, 230);
+    font-size: 14px;
+    border: 1px double rgb(42, 31, 118) ;
+    border-width: 7px;
+    margin:20px 100px 20px 100px;
+    padding: 20px;
+    font-family: 'Ubuntu';
+}
+
+.Tujuan {
+    background-color: rgb(145, 227, 145);
+    border: 10px dashed rgb(51, 136, 51);
+    margin-right: 570px;
+    margin-left: 100px;
+    border-width: 5px;
+    padding: 5px 30px 5px 30px;
+    font-family: 'Ubuntu';
+    
+}
+.Falsafah {
+    background-color: rgb(81, 81, 238);
+    color: white;
+    margin-left: 650px;
+    margin-right:100px;
+    padding: 5px 5px 5px 25px;
+    font-size:14px;
+    border: 5px dotted rgb(108, 230, 230);
+    font-family: 'Ubuntu';
+}
+.Pendidikan {
+    padding-left:10px;
+    font-family: 'Ubuntu';
+}
+
+.Falsafah1 {
+    padding-left: 50px;
+    font-family: 'Ubuntu';
+}

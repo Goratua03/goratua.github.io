@@ -1,0 +1,106 @@
+.atas {
+    background-color:#17B7C3 ;
+    position: relative;
+    color: rgb(255, 255, 255);
+}
+.tabel {
+    position: relative;
+    top: 0%;
+}
+ul {
+    list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+li {
+    float: top;
+    display: inline;
+    padding: 18px;
+}
+.buku {
+    background-color: rgba(250, 248, 248, 0.974);
+}
+.press {
+    background-color: none;
+    color:rgb(0, 166, 181);
+    font-size: 35px;
+    font-weight: 900;
+    position: relative;
+    left: 125px;
+}
+.gallery {
+    position: relative;
+    left: 125px;
+    color: rgb(41, 41, 41);
+    font-size: 16px;
+    line-height: 25px;
+    margin: 20px;
+    padding: 30px;
+    width: 300px;
+    height: 200px;
+    float: left;
+}
+.bank {
+    position: relative;
+    float: right;
+}
+.putih {
+    background-color: rgb(244,251,251);
+}
+body {
+    font-family: 'Montserrat';
+    background-color: rgb(244,251,251);
+}
+.pembukaan {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+.katapembuka {
+    line-height: 0.5;
+    vertical-align: baseline;
+    letter-spacing: 0.2px;
+    word-spacing: 0px;
+    position: relative;
+    left: -10px;
+}
+.katapembukaan {
+    position: relative;
+    left: -10px;
+   
+}
+.tata {
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -500px;
+    color:rgb(0, 166, 181);
+    font-size: 35px;
+    line-height: 15px;
+    font-weight: 800;
+}
+.bagi {
+    color: rgb(41, 41, 41);
+    font-size: 20px;
+    line-height: 1;
+    font-weight: 400;
+    position: absolute;
+    margin-left: 700px;
+    margin-top: -300px;
+}
+.digital {
+    color: rgb(13, 57, 82);
+    font-size: 30px;
+    line-height: 52px;
+    font-weight: 1000;
+}
+.aplikasi {
+    color: rgb(13, 57, 82);
+    font-size: 20px;
+    line-height: 1;
+}
+.action {
+    color:rgb(48, 206, 208);
+    block-size: auto;
+    border-left-style: solid;
+    border-radius: 10px;
+    border-color: rgb(48, 206, 208);
+}
